@@ -1,10 +1,10 @@
-# 🎬 Chatbot Netflix com IA
+#  Chatbot Netflix com IA
 
 Um chatbot simples desenvolvido em Python utilizando LangChain e Groq AI para recomendar filmes e séries da Netflix de forma natural e interativa.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Python
 * LangChain
@@ -14,7 +14,7 @@ Um chatbot simples desenvolvido em Python utilizando LangChain e Groq AI para re
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 * Recomenda filmes e séries
 * Sugere conteúdos parecidos
@@ -24,7 +24,7 @@ Um chatbot simples desenvolvido em Python utilizando LangChain e Groq AI para re
 
 ---
 
-## 🖥️ Como executar
+##  Como executar
 
 ### 1. Clone o repositório
 
@@ -68,7 +68,7 @@ Pergunta: Me recomenda uma série parecida com Stranger Things
 
 ---
 
-## 🎯 Objetivo do projeto
+##  Objetivo do projeto
 
 Este projeto foi desenvolvido para praticar:
 
@@ -80,7 +80,7 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-## 📚 Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento foram praticados conceitos como:
 
@@ -91,6 +91,6 @@ Durante o desenvolvimento foram praticados conceitos como:
 
 ---
 
-## 👩‍💻 Desenvolvido por
+##  Desenvolvido por
 
 Claudia Ribeiro
