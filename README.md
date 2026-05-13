@@ -60,7 +60,7 @@ python meu_chatbot.py
 
 ---
 
-## 💬 Exemplo de uso
+## Exemplo de uso
 
 ```txt
 Pergunta: Me recomenda uma série parecida com Stranger Things
